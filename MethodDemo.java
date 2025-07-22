@@ -1,3 +1,4 @@
+// Java Week 6 - MethodDemo.java
 public class MethodDemo {
     public static int sum(int i1, int i2) {
         int result = 0;
